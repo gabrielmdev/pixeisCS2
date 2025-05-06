@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Smoke CT",
+    "type": "smoke",
+    "side": "T",
+    "location": "CT",
+    "bombsite": "A",
+    "video": "../assets/videos/mirage/ctsmoke.webm"
+  },
+  {
+    "title": "Smoke Caixa Fogo",
+    "type": "smoke",
+    "side": "T",
+    "location": "Caixa Fogo",
+    "bombsite": "A",
+    "video": "../assets/videos/mirage/caixafogo.webm"
+  },
+  {
+    "title": "Smoke Cabecinha",
+    "type": "smoke",
+    "side": "T",
+    "location": "Cabecinha",
+    "bombsite": "A",
+    "video": "../assets/videos/mirage/cabecinha.webm"
+  },
+  {
+    "title": "Smoke Passagem",
+    "type": "smoke",
+    "side": "T",
+    "location": "Passagem",
+    "bombsite": "A",
+    "video": "../assets/videos/mirage/passagem.webm"
+  },
+  {
+    "title": "Smoke Liga",
+    "type": "smoke",
+    "side": "T",
+    "location": "Liga",
+    "bombsite": "Meio",
+    "video": "../assets/videos/mirage/liga.webm"
+  },
+  {
+    "title": "Smoke Top Mid",
+    "type": "smoke",
+    "side": "T",
+    "location": "Top Mid",
+    "bombsite": "Meio",
+    "video": "../assets/videos/mirage/topmid.webm"
+  },
+  {
+    "title": "Smoke Janelão",
+    "type": "smoke",
+    "side": "T",
+    "location": "Janelão",
+    "bombsite": "Meio",
+    "video": "../assets/videos/mirage/janelao.webm"
+  },
+  {
+    "title": "Smoke Janela Mercado",
+    "type": "smoke",
+    "side": "T",
+    "location": "Janela Mercado",
+    "bombsite": "B",
+    "video": "../assets/videos/mirage/janelamercado.webm"
+  },
+  {
+    "title": "Smoke Porta Mercado",
+    "type": "smoke",
+    "side": "T",
+    "location": "Porta Mercado",
+    "bombsite": "B",
+    "video": "../assets/videos/mirage/portamercado.webm"
+  },
+  {
+    "title": "Smoke Esquerda do L",
+    "type": "smoke",
+    "side": "T",
+    "location": "Esquerda do L",
+    "bombsite": "B",
+    "video": "../assets/videos/mirage/leftl.webm"
+  },
+  {
+    "title": "Smoke Direita do L",
+    "type": "smoke",
+    "side": "T",
+    "location": "Direita do L",
+    "bombsite": "B",
+    "video": "../assets/videos/mirage/rightl.webm"
+  },
+  {
+    "title": "Smoke Newba",
+    "type": "smoke",
+    "side": "T",
+    "location": "Newba",
+    "bombsite": "B",
+    "video": "../assets/videos/mirage/newba.webm"
+  },
+  {
+    "title": "Smoke Plant Default",
+    "type": "smoke",
+    "side": "T",
+    "location": "Default B",
+    "bombsite": "B",
+    "video": "../assets/videos/mirage/defaultb.webm"
+  }
+]

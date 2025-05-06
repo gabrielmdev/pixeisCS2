@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ancient - CS2</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css"/>
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="site-title">Ancient</h1>
+    <a href="/index.html" class="back-button">
+      <i class="fas fa-arrow-left"></i> Voltar</a>  
+    <p class="site-subtitle">Selecione e aprenda granadas estratégicas</p>
+  </header>
+
+  <section class="filters">
+    <select id="typeFilter">
+      <option value="">Tipo (Todos)</option>
+      <option value="smoke">Smoke</option>
+      <option value="flash">Flash</option>
+      <option value="molotov">Molotov</option>
+    </select>
+
+    <select id="siteFilter">
+      <option value="">Bombsite (Todos)</option>
+      <option value="A">A</option>
+      <option value="B">B</option>
+      <option value="Meio">Meio</option>
+    </select>
+  </section>
+
+  <main id="nadeList" class="nade-grid">
+  </main>
+
+  <script src="../js/ancient.js"></script>
+</body>
+</html>

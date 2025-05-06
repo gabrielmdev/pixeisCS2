@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Smoke CT",
+    "type": "smoke",
+    "side": "T",
+    "location": "Mid",
+    "bombsite": "B",
+    "video": "../assets/videos/dust2_smoke_ct.mp4"
+  },
+  {
+    "title": "Flash Long",
+    "type": "flash",
+    "side": "T",
+    "location": "Long",
+    "bombsite": "A",
+    "video": "../assets/videos/dust2_flash_long.mp4"
+  }
+]
