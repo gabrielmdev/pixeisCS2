@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Smoke CT",
+      "type": "smoke",
+      "side": "T",
+      "location": "CT",
+      "bombsite": "B",
+      "video": "../assets/videos/inferno/ct.mp4"
+    },
+    {
+      "title": "Smoke Biblioteca",
+      "type": "smoke",
+      "side": "T",
+      "location": "Biblioteca",
+      "bombsite": "A",
+      "video": "../assets/videos/inferno/biblioteca.mp4"
+    },
+    {
+      "title": "Smoke Areia & Headshot",
+      "type": "smoke",
+      "side": "T",
+      "location": "Areia & Headshot",
+      "bombsite": "A",
+      "video": "../assets/videos/inferno/areia-hs.mp4"
+    },
+    {
+        "title": "Smoke Caixão",
+        "type": "smoke",
+        "side": "T",
+        "location": "Caixão",
+        "bombsite": "B",
+        "video": "../assets/videos/inferno/caixao.mp4"
+    }
+]
