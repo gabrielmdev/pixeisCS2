@@ -12,7 +12,7 @@ fetch('../data/mirage.json')
   });
 
   function renderNades(list) {
-    nadeList.innerHTML = ''; 
+    nadeList.innerHTML = '';
   
     list.forEach(nade => {
       const card = document.createElement('div');
@@ -22,9 +22,26 @@ fetch('../data/mirage.json')
         <h3>${nade.title}</h3>
         <p><strong>Local:</strong> ${nade.location}</p>
         <p><strong>Bombsite:</strong> ${nade.bombsite}</p>
-        <video class="clipped-video" src="${nade.video}" controls></video>
+        <video class="clipped-video" src="${nade.video}" controls muted playsinline></video>
       `;
+  
+      const video = card.querySelector('video');
+  
+    
+      video.addEventListener('loadeddata', () => {
+        video.currentTime = 0; 
+        video.pause(); 
+      });
+  
       
+      video.addEventListener('click', () => {
+        if (video.paused) {
+          video.play();
+        } else {
+          video.pause();
+        }
+      });
+  
       nadeList.appendChild(card);
     });
   }
