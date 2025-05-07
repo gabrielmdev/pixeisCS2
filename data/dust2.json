@@ -1,18 +1,42 @@
 [
   {
-    "title": "Smoke CT",
+    "title": "Smoke Passagem CT",
     "type": "smoke",
     "side": "T",
-    "location": "Mid",
-    "bombsite": "B",
-    "video": "../assets/videos/dust2_smoke_ct.mp4"
+    "location": "Passagem CT",
+    "bombsite": "A",
+    "video": "../assets/videos/dust2/passagem-ct.mp4"
   },
   {
-    "title": "Flash Long",
-    "type": "flash",
+    "title": "Smoke Caixa Meio",
+    "type": "smoke",
     "side": "T",
-    "location": "Long",
-    "bombsite": "A",
-    "video": "../assets/videos/dust2_flash_long.mp4"
+    "location": "Caixa Meio",
+    "bombsite": "Meio",
+    "video": "../assets/videos/dust2/caixa-meio.mp4"
+  },
+  {
+    "title": "Smoke Buraco",
+    "type": "smoke",
+    "side": "T",
+    "location": "Buraco",
+    "bombsite": "B",
+    "video": "../assets/videos/dust2/buraco.mp4"
+  },
+  {
+      "title": "Smoke Porta Meio",
+      "type": "smoke",
+      "side": "T",
+      "location": "Porta Meio",
+      "bombsite": "Meio",
+      "video": "../assets/videos/dust2/porta-meio.mp4"
+  },
+  {
+    "title": "Smoke Porta",
+    "type": "smoke",
+    "side": "T",
+    "location": "Porta",
+    "bombsite": "B",
+    "video": "../assets/videos/dust2/portab.mp4"
   }
 ]

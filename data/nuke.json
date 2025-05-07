@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Smoke Duto",
+      "type": "smoke",
+      "side": "T",
+      "location": "Duto",
+      "bombsite": "A",
+      "video": "../assets/videos/nuke/duto.mp4"
+    },
+    {
+      "title": "Smoke Céu (GATE)",
+      "type": "smoke",
+      "side": "T",
+      "location": "Céu (GATE)",
+      "bombsite": "A",
+      "video": "../assets/videos/nuke/gate.mp4"
+    },
+    {
+      "title": "Smoke Garagem",
+      "type": "smoke",
+      "side": "T",
+      "location": "Garagem",
+      "bombsite": "Meio",
+      "video": "../assets/videos/nuke/garagem.mp4"
+    },
+    {
+        "title": "Smoke Secreto 01",
+        "type": "smoke",
+        "side": "T",
+        "location": "Secreto 01",
+        "bombsite": "Meio",
+        "video": "../assets/videos/nuke/passagem-secreto.mp4"
+    },
+    {
+      "title": "Smoke Secreto 02",
+      "type": "smoke",
+      "side": "T",
+      "location": "Secreto 02",
+      "bombsite": "Meio",
+      "video": "../assets/videos/nuke/passagem-secreto2.mp4"
+    },
+    {
+        "title": "Smoke Terra",
+        "type": "smoke",
+        "side": "T",
+        "location": "Terra",
+        "bombsite": "A",
+        "video": "../assets/videos/nuke/terra.mp4"
+    }
+  ]
