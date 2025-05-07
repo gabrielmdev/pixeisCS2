@@ -5,7 +5,7 @@
     "side": "T",
     "location": "CT",
     "bombsite": "A",
-    "video": "../assets/videos/mirage/ctsmoke.webm"
+    "video": "../assets/videos/mirage/ctsmoke.mp4"
   },
   {
     "title": "Smoke Caixa Fogo",
@@ -13,7 +13,7 @@
     "side": "T",
     "location": "Caixa Fogo",
     "bombsite": "A",
-    "video": "../assets/videos/mirage/caixafogo.webm"
+    "video": "../assets/videos/mirage/caixafogo.mp4"
   },
   {
     "title": "Smoke Cabecinha",
@@ -21,7 +21,7 @@
     "side": "T",
     "location": "Cabecinha",
     "bombsite": "A",
-    "video": "../assets/videos/mirage/cabecinha.webm"
+    "video": "../assets/videos/mirage/cabecinha.mp4"
   },
   {
     "title": "Smoke Passagem",
@@ -29,7 +29,7 @@
     "side": "T",
     "location": "Passagem",
     "bombsite": "A",
-    "video": "../assets/videos/mirage/passagem.webm"
+    "video": "../assets/videos/mirage/passagem.mp4"
   },
   {
     "title": "Smoke Liga",
@@ -37,7 +37,7 @@
     "side": "T",
     "location": "Liga",
     "bombsite": "Meio",
-    "video": "../assets/videos/mirage/liga.webm"
+    "video": "../assets/videos/mirage/liga.mp4"
   },
   {
     "title": "Smoke Top Mid",
@@ -45,7 +45,7 @@
     "side": "T",
     "location": "Top Mid",
     "bombsite": "Meio",
-    "video": "../assets/videos/mirage/topmid.webm"
+    "video": "../assets/videos/mirage/topmid.mp4"
   },
   {
     "title": "Smoke Janelão",
@@ -53,7 +53,7 @@
     "side": "T",
     "location": "Janelão",
     "bombsite": "Meio",
-    "video": "../assets/videos/mirage/janelao.webm"
+    "video": "../assets/videos/mirage/janelao.mp4"
   },
   {
     "title": "Smoke Janela Mercado",
@@ -61,7 +61,7 @@
     "side": "T",
     "location": "Janela Mercado",
     "bombsite": "B",
-    "video": "../assets/videos/mirage/janelamercado.webm"
+    "video": "../assets/videos/mirage/janelamercado.mp4"
   },
   {
     "title": "Smoke Porta Mercado",
@@ -69,7 +69,7 @@
     "side": "T",
     "location": "Porta Mercado",
     "bombsite": "B",
-    "video": "../assets/videos/mirage/portamercado.webm"
+    "video": "../assets/videos/mirage/portamercado.mp4"
   },
   {
     "title": "Smoke Esquerda do L",
@@ -77,7 +77,7 @@
     "side": "T",
     "location": "Esquerda do L",
     "bombsite": "B",
-    "video": "../assets/videos/mirage/leftl.webm"
+    "video": "../assets/videos/mirage/leftl.mp4"
   },
   {
     "title": "Smoke Direita do L",
@@ -85,7 +85,7 @@
     "side": "T",
     "location": "Direita do L",
     "bombsite": "B",
-    "video": "../assets/videos/mirage/rightl.webm"
+    "video": "../assets/videos/mirage/rightl.mp4"
   },
   {
     "title": "Smoke Newba",
@@ -93,7 +93,7 @@
     "side": "T",
     "location": "Newba",
     "bombsite": "B",
-    "video": "../assets/videos/mirage/newba.webm"
+    "video": "../assets/videos/mirage/newba.mp4"
   },
   {
     "title": "Smoke Plant Default",
@@ -101,6 +101,6 @@
     "side": "T",
     "location": "Default B",
     "bombsite": "B",
-    "video": "../assets/videos/mirage/defaultb.webm"
+    "video": "../assets/videos/mirage/defaultb.mp4"
   }
 ]
